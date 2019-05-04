@@ -1,6 +1,12 @@
 # simple-test
 Simple Automation Test
 
+## required binaries
+	- java - download java from https://www.java.com/en/download/manual.jsp
+	- eclipse - download eclipse from https://www.eclipse.org/downloads/
+	- maven - https://maven.apache.org/download.cgi?Preferred=ftp://mirror.reverse.net/pub/apache/
+	- git - https://git-scm.com/download/win
+
 1. To clone a project from git source repository
  
 git clone https://github.com/amalalex/simple-test.git

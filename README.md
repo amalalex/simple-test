@@ -69,4 +69,7 @@ git clone https://github.com/amalalex/simple-test.git
 
 9. commit and push to github
 
+		- git add .      #include all the files for commit 
+		- git commit -m "login test suite added"  #commit the changes to local repo
+		- git push # push to remote source repository like github, bitbucket or internal git source repository
  
